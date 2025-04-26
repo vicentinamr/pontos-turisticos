@@ -11,7 +11,5 @@ Este projeto é uma página informativa sobre o Marco Zero, um dos pontos turís
 - **Botão de Voltar ao Topo:** Um botão flutuante que aparece após rolar a página, permitindo ao usuário voltar rapidamente ao topo.
 - **Responsividade:** A página é totalmente responsiva e ajusta-se bem em dispositivos móveis, com um menu hambúrguer.
 
-## Estrutura de Pastas
 
-A estrutura do projeto é a seguinte:
 
